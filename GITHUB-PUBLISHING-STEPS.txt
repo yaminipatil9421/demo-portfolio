@@ -1,0 +1,16 @@
+GITHUB PUBLISHING — QUICK STEPS
+
+1. Sign in at https://github.com
+2. Click + (top right) > New repository.
+3. Name it aks-coffee-essence and set it to Public.
+4. Create repository.
+5. Click Add file > Upload files.
+6. Upload the CONTENTS of this folder (not the outer folder):
+   index.html, styles.css, config.js, app.js, README.md, .nojekyll, assets/
+7. Click Commit changes.
+8. Go to Settings > Pages.
+9. Source: Deploy from a branch.
+10. Branch: main ; Folder: / (root) ; click Save.
+11. Wait for the public GitHub Pages link to appear on the Pages screen.
+
+The website menu is ready for verified products, but the actual café menu names/prices must be entered in config.js after checking a clear menu photo.
